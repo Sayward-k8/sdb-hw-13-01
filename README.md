@@ -86,6 +86,7 @@
   Открытые порты игнорируют пакет (нет ответа), закрытые отвечают RST/ACK.
 
 ![alt text](https://github.com/Sayward-k8/sdb-hw-13-01/blob/main/img/fin.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-13-01/blob/main/img/fin2.png)
 
 3. Xmas-сканирование (-sX)
 
